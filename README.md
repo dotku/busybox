@@ -1,6 +1,6 @@
 # busybox
 
-A food solution.
+Your lunchbox solution.
 
 ## Intro
 
